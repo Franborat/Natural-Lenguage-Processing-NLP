@@ -2,7 +2,7 @@
 
 ## Programming Lenguage: R
 ## DB used:  Sentiment polarity datasets version 2.0 (polarity dataset v2.0) from the Movie review data, created by Bo Pang and Lillian Lee. http://www.cs.cornell.edu/people/pabo/movie-review-data/
-## Gold-standard used for stadistical comparison can be dound in Data folder
+## Gold-standard used for stadistical comparison can be found in the "Data" folder
 
 ## The repository is composed by three Jupyter notebooks:
 
